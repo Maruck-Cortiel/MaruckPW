@@ -1,0 +1,10 @@
+/* woooooooooooooooooooooooooooow */
+main {
+    padding: 3rem;
+    border: 10px black solid;
+    margin: 5rem;
+}
+img{
+    object-fit: cover;
+    width: 70%;
+}
